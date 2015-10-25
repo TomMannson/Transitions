@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Transitions</string>
+    <string name="StartAnimation" >Start Animation</string>
+    <string name="fragmenttransitionbutton">Fragment Transition Activity</string>
+
+    <string-array name="data">
+        <item>asd</item>
+        <item>asd</item>
+        <item>asd</item>
+        <item>asd</item>
+        <item>asd</item>
+        <item>asd</item>
+        <item>asd</item>
+        <item>asd</item>
+        <item>asd</item>
+        <item>asd</item>
+        <item>asd</item>
+        <item>asd</item>
+        <item>asd</item>
+    </string-array>
+</resources>
